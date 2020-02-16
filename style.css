@@ -1,0 +1,37 @@
+.banner{
+    overflow: hidden;
+    background-color: #0984e3;
+    top: 0;
+    width: 100%;
+    
+}
+.heading{
+    font-weight: bolder;
+    font-style: normal; 
+    margin-left: 50px;
+}
+
+.img{
+    margin-left: inherit;
+    margin-right: inherit;
+    /*display: flow-root;
+    width: 160%;
+    size: inherit;*/
+}
+.container {
+    width: 100%;
+    padding-right:15px;
+    padding-left: 15px;
+    margin-right: -130.800px;
+    margin-left: -130.800px;
+}
+.text{
+    text-align: left;
+    margin-left: 25px;
+}
+.card-text{
+    text-align: center;
+}
+.lib{
+    margin-left: 30px;
+}
